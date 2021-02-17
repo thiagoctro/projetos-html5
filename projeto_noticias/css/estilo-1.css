@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url(../imagens/fundo.png) repeat-x top left;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.container{
+	width: 750px;
+	margin: 0 auto;
+}
+
+/* --- layout topo --- */
+
+#topo{
+	background: url(../imagens/detalhe-topo.png) no-repeat top right;
+	height: 180px;
+}
+
+#logo{
+	background: url(../imagens/logo.png) no-repeat top center;
+	width: 152px;
+	height: 66px;
+	text-indent: -3000px;
+	margin-top: 30px;
+}
+
+

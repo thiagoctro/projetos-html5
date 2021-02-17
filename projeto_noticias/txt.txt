@@ -1,0 +1,22 @@
+
+#topo ul{
+	#b10333;
+}
+
+#topo ul a:hover{
+	color: #69001d;
+}
+
+link marcado: #de003e;
+
+links menu principal:
+	- Home
+	- Brasil
+	- Internacional
+	- Economia
+	- Saúde
+	- Ciências
+	- Fotos
+
+
+
